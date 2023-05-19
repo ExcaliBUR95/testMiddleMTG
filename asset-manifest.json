@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testMiddleMTG/static/css/main.691b691d.css",
+    "main.js": "/testMiddleMTG/static/js/main.24d7f5a4.js",
+    "index.html": "/testMiddleMTG/index.html",
+    "main.691b691d.css.map": "/testMiddleMTG/static/css/main.691b691d.css.map",
+    "main.24d7f5a4.js.map": "/testMiddleMTG/static/js/main.24d7f5a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.691b691d.css",
+    "static/js/main.24d7f5a4.js"
+  ]
+}
